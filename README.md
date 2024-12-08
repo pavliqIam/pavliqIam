@@ -1,3 +1,3 @@
 ![GIF](chiken.gif)
-[	](https://www.youtube.com/@pavliqIam)
+[![MyYTchannel](YTpfp.jpg)](https://www.youtube.com/@pavliqIam)
 
