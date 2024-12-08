@@ -1,5 +1,4 @@
-![GIF](chiken.gif) <br>
-[![MyYTchannel](YTpfp.png)](https://www.youtube.com/@pavliqIam)
-
+![GIF](chiken.gif) Kurochka <br>
 My YT channel
+[![MyYTchannel](YTpfp.png)](https://www.youtube.com/@pavliqIam)
 
